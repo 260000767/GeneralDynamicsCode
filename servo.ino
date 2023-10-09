@@ -26,7 +26,7 @@
     }
     else
     {
-      Serv.write(10);
-      delay(100);
+      Serv.write(0);
+      delay(1000000);
     }
   }
